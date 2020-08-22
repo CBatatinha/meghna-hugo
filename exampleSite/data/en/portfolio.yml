@@ -4,7 +4,7 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Example
-    image: "/images/rb_atleti_template.jpg"
+    image: images/rb_atleti_template.jpg
     image_webp: ''
     categories:
     - design
