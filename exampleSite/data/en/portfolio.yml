@@ -3,12 +3,6 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
-  - name: Example
-    image: ''
-    image_webp: ''
-    categories: ''
-    content: ''
-    link: https://twitter.com/CcBatatinha/status/1296070826010304518?s=20
   - name: Tag Design
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
