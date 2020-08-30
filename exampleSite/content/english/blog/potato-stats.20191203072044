@@ -2,7 +2,6 @@
 author = "John Doe"
 date = 2020-08-30T03:00:00Z
 description = ""
-draft = true
 image = "/images/rb_atleti_template.jpg"
 image_webp = "/images/rb_atleti_template.jpg"
 title = "Potato Stats"
